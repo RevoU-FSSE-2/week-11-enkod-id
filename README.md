@@ -81,7 +81,7 @@ localhost:3000/blog/Delete/1
 <img src="https://github.com/RevoU-FSSE-2/week-11-enkod-id/assets/18107640/505aedcd-e951-4a82-bfde-d2a2e2e9ccc5" width="500"/>
 
 
-Browser
+** Open browser
 ```sh
 localhost:3000/api-docs
 ```
