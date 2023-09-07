@@ -3,6 +3,7 @@
 
 <h1>Welcome</h1> 
 <h3>this is a simple blog application with node js, express, mysql & Openapi</h3>
+<p>Please visit <a href="https://article.up.railway.app/">click here</a></p>
 
 ![](header.png)
 
